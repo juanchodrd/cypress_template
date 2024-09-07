@@ -16,4 +16,4 @@ cypress.local.config.js
 *cypress-image-diff-html-report*
 **/downloads/
 
-mochawesome-reporter
+mochawesome-report
